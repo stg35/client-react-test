@@ -1,0 +1,27 @@
+.buttons {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.inputs {
+  display: flex;
+  font-size: small;
+  justify-content: space-between;
+  align-items: end;
+  margin-bottom: 20px;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+
+.plusButton {
+  padding: 5px;
+}
+
+.select {
+  height: 44px;
+}
